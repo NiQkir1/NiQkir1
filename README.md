@@ -1,11 +1,10 @@
 <div align="center">
 
-# Привет, я Кирилл Чечулин 👋
+# Привет, я Кирилл Чечулин
 ### Software Engineer (.NET • Go • AI Systems)
 
 [![Telegram](https://img.shields.io/badge/Telegram-@rustyspy-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/rustyspy)
 [![Email](https://img.shields.io/badge/Email-jotrykastik@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jotrykastik@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-NiQkir1-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/NiQkir1)
 
 <p align="center">
   📍 <b>Минск, Беларусь</b> • 🎓 <b>БГУИР (ФИТиУ) '28</b>
@@ -16,7 +15,7 @@
 <p align="center">
   Инженер-разработчик бэкенд-систем и распределенных сервисов на <b>.NET (C#)</b> и <b>Go (Golang)</b>.<br/>
   Проектирую масштабируемые архитектуры (<b>Clean Architecture</b>, <b>CQRS</b>, <b>Microservices</b>),<br/>
-  а также разрабатываю агентные <b>AI-системы</b>, <b>RAG-пайплайны</b> и высокопроизводительные утилиты на <b>C++</b>.
+  а также разрабатываю агентные <b>AI-системы</b>, <b>RAG-пайплайны</b>
 </p>
 
 </div>
