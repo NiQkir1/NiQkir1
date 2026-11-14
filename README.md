@@ -1,7 +1,7 @@
 <div align="center">
 
 # Привет, я Кирилл Чечулин
-### Software Engineer (.NET • Go • AI Systems)
+### Software Engineer (.NET • Go • AI Systems) с коммерческим опытом
 
 [![Telegram](https://img.shields.io/badge/Telegram-@rustyspy-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/rustyspy)
 [![Email](https://img.shields.io/badge/Email-jotrykastik@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jotrykastik@gmail.com)
@@ -86,9 +86,9 @@
 
 ---
 
-### 🚀 Ключевые проекты & Достижения
+###  Ключевые проекты & Достижения
 
-- **[T1 SmartSupport](https://github.com/NiQkir1/SmartSupportHakaton)** — **🏆 4-е место (Финалист всероссийского хакатона T1)**  
+- **[T1 SmartSupport](https://github.com/NiQkir1/SmartSupportHakaton)** — ** 4-е место (Финалист хакатона от T1)**  
   Интеллектуальная AI-система поддержки операторов на базе RAG и LLM. Точность поиска решений в базе знаний 92–95%, автоматическая нормализация пользовательского сленга и англицизмов, быстрый инференс и легкое развертывание в Docker.
 
 - **[GravitySimulator](https://github.com/NiQkir1/GravitySimulator)**  
@@ -99,9 +99,3 @@
 
 ---
 
-### 📊 Статистика активности
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=NiQkir1&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="155" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NiQkir1&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="155" />
-</div>
